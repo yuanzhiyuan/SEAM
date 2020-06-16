@@ -1,5 +1,6 @@
 from sklearn.manifold import TSNE
 import umap
+import numpy as np
 from sklearn.preprocessing import *
 def View(a,method='Umap'):
     
