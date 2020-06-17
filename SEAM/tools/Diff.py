@@ -2,7 +2,7 @@ import numpy as np
 from scipy.spatial.distance import *
 from scipy.stats import wasserstein_distance
 
-
+import scanpy as sc
 
 def get_m_sc(a_use,pval_thre,cls,method='pval_topk'):
 #     a_use = a_m_hepa
