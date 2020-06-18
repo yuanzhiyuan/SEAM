@@ -1,0 +1,2 @@
+SEAM/data/* filter-lfs
+SEAM/data/** filter=lfs diff=lfs merge=lfs -text
