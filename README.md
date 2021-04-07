@@ -8,4 +8,6 @@ SEAM: a Spatial single nuclEar metAboloMics method for dissecting tissue microen
 
 This repo provides notebooks for [tutorial and demonstration](SEAM/ipynbs/demostration/), [figure regeneration](SEAM/ipynbs/figure_regeneration/), [method comparison](SEAM/ipynbs/comparison/), and [spatial transcriptome analysis](SEAM/ipynbs/transcriptome/).
 
+Note that the revised version of SEAM can be found in another repo "SEAM_revision". We maintain this original version of SEAM to better assess the change for reviewers.
+
 
